@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodKart/static/css/main.4b5e9f34.css",
+    "main.js": "/foodKart/static/js/main.86dd2156.js",
+    "static/js/787.5bb1d78e.chunk.js": "/foodKart/static/js/787.5bb1d78e.chunk.js",
+    "static/media/logo.svg": "/foodKart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/foodKart/index.html",
+    "main.4b5e9f34.css.map": "/foodKart/static/css/main.4b5e9f34.css.map",
+    "main.86dd2156.js.map": "/foodKart/static/js/main.86dd2156.js.map",
+    "787.5bb1d78e.chunk.js.map": "/foodKart/static/js/787.5bb1d78e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5e9f34.css",
+    "static/js/main.86dd2156.js"
+  ]
+}
